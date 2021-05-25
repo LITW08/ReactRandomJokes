@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactRandomJokes.Web", "ReactRandomJokes.Web\ReactRandomJokes.Web.csproj", "{C9EC0C18-DBCA-4788-B89B-EBD5A65AA126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactRandomJokes.Data", "ReactRandomJokes.Data\ReactRandomJokes.Data.csproj", "{4F1462B6-56DA-48ED-B451-89782A64E7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9EC0C18-DBCA-4788-B89B-EBD5A65AA126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EC0C18-DBCA-4788-B89B-EBD5A65AA126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EC0C18-DBCA-4788-B89B-EBD5A65AA126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EC0C18-DBCA-4788-B89B-EBD5A65AA126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F1462B6-56DA-48ED-B451-89782A64E7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1462B6-56DA-48ED-B451-89782A64E7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1462B6-56DA-48ED-B451-89782A64E7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1462B6-56DA-48ED-B451-89782A64E7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
